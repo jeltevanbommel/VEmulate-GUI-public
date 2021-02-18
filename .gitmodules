@@ -1,0 +1,3 @@
+[submodule "emulator"]
+	path = emulator
+	url = https://github.com/jeltevanbommel/VEmulator.git
