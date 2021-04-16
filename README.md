@@ -9,7 +9,7 @@ Also see the [Vemulator-CLI](https://github.com/jeltevanbommel/VEmulate-CLI-publ
 
 ## Installing 
 
-`git clone https://github.com/jeltevanbommel/VEmulator-GUI.git --recursive `
+`git clone https://github.com/jeltevanbommel/VEmulate-GUI-public.git --recursive `
 ### VEmulator's GUI Backend
 If a virtual environment is desired, the following command can be ran:
 
